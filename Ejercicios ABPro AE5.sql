@@ -141,3 +141,4 @@ con la columna id_usuario de la tabla usuarios.
 */
 
 -- El ejercicio debe ser subido a github
+-- https://github.com/Fajrita/Ejercicios-ABPro-AE5
