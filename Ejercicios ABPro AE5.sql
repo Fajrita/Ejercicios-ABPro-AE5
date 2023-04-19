@@ -106,7 +106,7 @@ números enteros hasta 2,147,483,647. NOT NULL se utiliza para garantizar que si
 fecha_hora_ingresos: DATETIME
 Este campo almacena la fecha y hora en la que se registró cada ingreso. DATETIME es el tipo de dato adecuado para este campo ya que permite almacenar
  valores de fecha y hora con una precisión de segundos.
-
+*/
 /* Creen una nueva tabla llamada Contactos (id_contacto, id_usuario, numero de telefono,
 correo electronico).
 */
